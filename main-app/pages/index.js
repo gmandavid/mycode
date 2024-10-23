@@ -31,7 +31,7 @@ const titleStyle = {
 };
 
 const inputStyle = {
-  width: '100%',
+  width: '90%',
   marginBottom: '10px',
 };
 
